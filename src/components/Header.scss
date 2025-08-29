@@ -1,0 +1,14 @@
+.header {
+  background-color: #1976d2; // override warna AppBar
+
+  .logo {
+    flex-grow: 1; // supaya teks logo dorong tombol ke kanan
+    font-weight: bold;
+  }
+
+  .nav-links {
+    button {
+      margin-left: 10px;
+    }
+  }
+}

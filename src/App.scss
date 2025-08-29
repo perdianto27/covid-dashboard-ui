@@ -1,0 +1,20 @@
+.app {
+  .app-header {
+    .logo {
+      flex-grow: 1; // dorong tombol ke kanan
+      font-weight: bold;
+    }
+
+    .nav-buttons {
+      .nav-link {
+        margin-left: 10px;
+        text-decoration: none;
+      }
+    }
+  }
+
+  .page-content {
+    padding: 20px;
+    margin-top: 64px;
+  }
+}
