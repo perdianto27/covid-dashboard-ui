@@ -2,6 +2,8 @@
 
 Aplikasi pelacakan data COVID yang terdiri dari backend (Node.js), frontend (React.js), dan database (MySQL).
 
+<p align="center" ><img height="400px" src="https://github.com/perdianto27/covid-dashboard-ui/blob/master/src/assets/fe.png"> </p>
+
 ## 🚀 Getting Started
 
 ```bash
